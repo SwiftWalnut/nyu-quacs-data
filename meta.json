@@ -1,0 +1,10 @@
+{
+  "terms": [
+    {"year": 2025, "term": "fa", "label": "Fall 2025"}
+  ],
+  "schools": [
+    {"code": "UA", "name": "College of Arts & Science"},
+    {"code": "EG", "name": "Tandon School of Engineering"},
+    {"code": "ST", "name": "Stern School of Business"}
+  ]
+}
